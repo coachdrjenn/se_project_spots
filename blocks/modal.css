@@ -122,7 +122,7 @@
 
 @media screen and (max-width: 627px) {
   .modal__container {
-    padding: ;
+    padding: 8px 16px 8px 16px;
   }
   .modal__title {
     font-size: 20px;
