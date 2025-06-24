@@ -61,6 +61,7 @@
 .modal__close_type_preview {
   top: 0;
   right: -52.5px;
+  color: #fff;
 }
 
 .modal__close-button:hover {
@@ -141,11 +142,16 @@
 }
 
 .modal__caption {
-  font: Poppins;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   color: #fff;
+  background-color: #212121;
+  width: fit-content;
+  margin: 8px 0 0 0;
+  padding: 4px 8px 4px 8px;
+  border-radius: 8px;
 }
 
 @media screen and (max-width: 627px) {

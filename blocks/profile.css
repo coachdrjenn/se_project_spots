@@ -81,6 +81,7 @@
   width: 149px;
   margin-top: auto;
   opacity: 100%;
+  border: none;
 }
 .profile__new-post-button:hover {
   opacity: 40%;
